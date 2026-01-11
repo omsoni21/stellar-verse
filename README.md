@@ -84,7 +84,7 @@ MIT License
 
 ## 🖥️ Pages Included
 
-- **Home** – Landing page & platform overview  
+- **Home** – Landing page & platform overview 
 - **About** – Mission, vision & impact  
 - **Browse Products** – Marketplace UI  
 - **Login** – Authentication UI  
